@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3c.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+    <head>
+        <metadata>
+            <ttm:title>Test captions file.</ttm:title>
+        </metadata>
+        <styling>
+            <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+        </styling>
+    </head>
+    <body tts:textAlign="center" style="s0">
+        <div>
+            <p begin="00:00:03.744" id="p0" end="00:00:06.277">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p begin="00:00:06.443" id="p1" end="00:00:08.576">Duis id velit quis sem dapibus commodo.</p>
+            <p begin="00:00:10.643" id="p2" end="00:00:13.643">Quisque non sodales turpis, at mollis tellus.</p>
+            <p begin="00:00:14.544" id="p3" end="00:00:18.277">Sed ipsum massa, hendrerit nec commodo sit amet, ornare eget tortor.</p>
+            <p begin="00:00:18.544" id="p4" end="00:00:22.711">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p begin="00:00:23.343" id="p5" end="00:00:24.676">Ut sagittis tellus in turpis sagittis dapibus.</p>
+            <p begin="00:00:25.143" id="p6" end="00:00:27.210">Aliquam vitae leo quis mauris viverra euismod.</p>
+            <p begin="00:00:27.843" id="p7" end="00:00:29.576">Suspendisse ornare risus sit amet elit luctus condimentum.</p>
+        </div>
+    </body>
+</tt>
