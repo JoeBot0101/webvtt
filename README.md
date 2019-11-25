@@ -1,13 +1,13 @@
-#webvtt
+# webvtt
 Provides classes to create valid WebVTT files.
 
 See [WebVTT - MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API) 
 for more information about WebVTT files.
 
-##WebVttFile
+## WebVttFile
 Represents a simple WebVTT file object. *Does not currently support regions or chapters*.
 
-##WebVttCue
+## WebVttCue
 Represents a WebVTT cue object.
 
 Supports cue setting directives (vertical, line, position, size, align).
@@ -23,7 +23,7 @@ You should be able to include internal cue tags, such as:
 
 No validation is provided for for cue tags.
 
-##Conversions - WebVttConverterBase
+## Conversions - WebVttConverterBase
 A simple converter interface and base class is included to help you build custom converter classes.
 
 An example converter class is provided, `TtafVttConverter`, 
